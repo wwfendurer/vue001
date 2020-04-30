@@ -38,4 +38,4 @@ Sequelize
 8 关联到远程仓库
 9 提交推送远程仓库
 
-![image](https://github.com/wwfendurer/vue001/blob/master/public/readme-image/0001.PNG)
+![image](https://www.baidu.com/img/bd_logo1.png)
