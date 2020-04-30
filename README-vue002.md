@@ -38,4 +38,4 @@ Node.js Express Jwt Mysql Sequelize
 9 提交推送远程仓库
 ```
 
-![Image](https://www.baidu.com/img/bd_logo1.png)
+### ![Image](https://www.baidu.com/img/bd_logo1.png)
