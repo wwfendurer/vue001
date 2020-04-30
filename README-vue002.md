@@ -1,18 +1,14 @@
 ### 前端项目技术栈
 
-Vue
-Vue-router
-Element-UI
-Axios
-Echarts
+```
+Vue Vue-router Element-UI Axios Echarts
+```
 
 ### 后端项目技术栈
 
-Node.js
-Express
-Jwt
-Mysql
-Sequelize
+```
+Node.js Express Jwt Mysql Sequelize
+```
 
 ### 同一电脑安装 vue-cli2 4
 
