@@ -38,4 +38,4 @@ Sequelize
 8 关联到远程仓库
 9 提交推送远程仓库
 
-![image](https://www.baidu.com/img/bd_logo1.png)
+![Image](https://www.baidu.com/img/bd_logo1.png)
